@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity2"
+    android:background="@drawable/canteen">
+
+    <Button
+        android:id="@+id/rajiv"
+        android:layout_width="309dp"
+        android:layout_height="60dp"
+        android:background="@drawable/sh5"
+        android:onClick="rajiv"
+        android:text="RAJIV "
+        android:textSize="45dp"
+        android:typeface="serif"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.192" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CANTEENS"
+        android:textSize="60dp"
+        app:layout_constraintBottom_toTopOf="@+id/rajiv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/rajendra"
+        android:layout_width="309dp"
+        android:layout_height="64dp"
+        android:background="@drawable/sh6"
+        android:onClick="rajendra"
+        android:text="RAJENDRA"
+        android:textSize="45dp"
+        android:typeface="serif"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rajiv"
+        app:layout_constraintVertical_bias="0.094" />
+
+    <Button
+        android:id="@+id/cautley"
+        android:layout_width="302dp"
+        android:layout_height="65dp"
+        android:background="@drawable/sh7"
+        android:onClick="cautley"
+        android:text="CAUTLEY"
+        android:textSize="45dp"
+        android:typeface="serif"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.532"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rajendra"
+        app:layout_constraintVertical_bias="0.122" />
+
+    <Button
+        android:id="@+id/gc"
+        android:layout_width="296dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="149dp"
+        android:layout_marginLeft="149dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="174dp"
+        android:layout_marginRight="174dp"
+        android:layout_marginBottom="196dp"
+        android:background="@drawable/sh8"
+        android:onClick="gc"
+        android:text="GEORGIA"
+        android:textSize="45dp"
+        android:typeface="serif"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.442"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ccd" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

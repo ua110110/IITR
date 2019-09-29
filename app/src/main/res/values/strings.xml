@@ -1,0 +1,348 @@
+<resources>
+    <string name="app_name">IIT ROORKEE</string>
+    <string name="Most">
+
+        <br> MUST TRY :  \n</br>
+    <br>Veg Burger      ( 15 )\n</br>
+   <br> Cheese Burger ( 25 )\n</br>
+   <br> Soup Maggi ( 20 ) \n</br>
+   <br> Hot Dog ( 30 ) \n</br>
+   <br> Samosa bhajiya ( 20 ) \n</br>
+    <br> \n</br>
+   <br> OTHER THINGS : \n</br>
+   <br> Pav Bhaji         ( 25 )\n</br>
+   <br> Macaroni ( 20 ) \n</br>
+   <br> soup Macaroni ( 25 )\n</br>
+   <br> Fried Maggi ( 25 ) \n</br>
+   <br> Cheese Maggi ( 30 ) \n</br>
+   <br> Red pasta  ( 25 )\n</br>
+   <br> white pasta ( 25 )\n</br>
+   <br> Cheese pasta ( 35 ) \n</br>
+   <br> Plane paties ( 10 )\n</br>
+   <br> Masala paties  ( 20 )\n</br>
+   <br> Samosa ( 6 ) \n</br>
+   <br> Chola Samosa ( 25 )\n</br>
+   <br> Dahi Samosa ( 25 ) \n</br>
+   <br> Chola dahi Samosa ( 30 )\n</br>
+   <br> Chola Kulcha ( 30 )\n</br>
+   <br> Corn Pakode ( 40 ) \n</br>
+   <br> Plane Pakode ( 30 )\n</br>
+   <br> Paneer pakode ( 50 ) \n</br>
+   <br> Paties bhujiya ( 20 ) \n</br>
+   <br> Hot Coffee ( 20 ) \n</br>
+   <br> Tea ( 10 ) \n</br>
+     <br> Gril Sandwich ( 35 ) \n</br>
+   <br> Paneer Sandwich ( 45 ) \n</br>
+   <br> Aluu Sandwich ( 35 )  \n</br>
+   <br> Oreo Shake  ( 20 )  \n</br>
+   <br> Banana Shake ( 20 ) \n</br>
+   <br> Chocolate Shake ( 20 ) \n</br>
+   <br> Strawberry Shake ( 20 ) \n</br>
+   <br> Cold Coffee ( 20 ) \n</br>
+        <br> Orange Shake ( 20 )\n</br>
+</string>
+    <string name="most1">
+
+<br>Alu Parantha (10)\n</br>
+<br>Paneer Parantha (20)\n</br>
+<br>Gobhi Parantha (10)\n</br>
+<br>Muli Parantha (10)\n</br>
+<br>Coffee (15)\n</br>
+<br>Milk,Mango,Chocolate shake (20) \n</br>
+<br>Hot Dog (15)\n</br>
+<br>Pao Bhaji 2 bun (25)\n</br>
+<br>Masala Dosa (28)\n</br>
+<br>Plain Dosa (22)\n</br>
+<br>Toast Bhujia (20)\n</br>
+<br>Break Pakoda (8)\n</br>
+<br>Mixed Pakoda (20)\n</br>
+<br>Samosa (6)\n</br>
+<br>Burger (15)\n</br>
+<br>Tea (8)\n</br>
+<br>Paneer Sandwich(15)\n</br>
+<br>Upma (18)\n</br>
+<br>Cheese Chilly toast (25)\n</br>
+<br>patties (10)\n</br>
+<br>Pineapple Party (10)\n</br>
+<br>Lassi (15)\n</br>
+<br>chowmins bhujia full (30)\n</br>
+<br>Egg Noodles (30)\n</br>
+<br>Fry Noodles (25)\n</br>
+<br>Macroni (22)\n</br>
+<br>Momos (15)\n</br>
+<br>Paneer vada pav (30)\n</br>
+<br>Hara Bhara Kabab (30)\n</br>
+
+
+
+   </string>
+    <string name="most2">
+   <br>MUST TRY \n</br>
+
+<br> \n</br>
+<br>Soup maggie (25) \n</br>
+
+<br>Chowmin (25) \n</br>
+
+<br>1/2veg momos (30) \n</br>
+
+<br>Toast bhujia (25) \n</br>
+
+<br>Special sandwich (50) \n</br>
+
+<br>Paneer pyaj paratha (15)\n</br>
+<br> \n</br>
+
+<br>OTHERS THINGS TO TRY \n </br>
+
+<br> \n</br>
+
+<br>Lassi (25)\n</br>
+
+<br>Tea (10)\n</br>
+
+<br>Coffee (15)\n</br>
+
+<br>Cheese masala paties (30)\n</br>
+
+<br>Aalu paties (10)\n</br>
+
+<br>Cheewse maggi,anda fri maggi (35)\n</br>
+
+<br>Cold Bournvita (20)\n</br>
+
+<br>Banana,mango (30)\n</br>
+        <br>Butterscotch,vanila,chocolate (30)\n</br>
+<br>Strawberry and oreo shakes (30)\n</br>
+<br>Masala dosa (30)\n</br>
+
+<br>Plain dosa (20)\n</br>
+
+<br>Paneer dosa (50)\n</br>
+        <br>Cheese masala dosa (50)\n</br>
+
+<br>Samosa bhujia (20)\n</br>
+
+<br>Dahi samosa (30)\n</br>
+
+<br>Bread amlet (25)\n</br>
+
+<br>Plain amlet (20)\n</br>
+
+<br>Cheese paratha (25)\n</br>
+
+<br>Poha full (25)\n</br>
+        <br>Poha half (15)\n</br>
+
+<br>Mix,egg paratha (20)\n</br>
+   </string>
+    <string name="facts">
+<br> Must Know Facts...\n</br>
+<br>\n</br>
+<br>IITR is the countrys first engineering college established in 1847 for the CIVIL ENGINEERS TRAINING.\n</br>
+
+<br>Has SECOND MOST beautiful campus after IIT Guwahati amongst IITs.\n</br>
+
+<br>Currently stands at 6th position AMONGST IITs.\n</br>
+
+<br>Much bigger alumuni base.\n</br>
+
+<br>Most amazing location-SERENE LOCATION,ON THE FOOTSTEPS OF SHIVALIK.\n</br>
+
+<br>The Highest salary process this year Was Rs.47 Lac\n</br>
+
+<br>And International package was 1.5Cr.\n</br>
+
+<br>\n</br>
+<br>Sports and Cultural facts...\n</br>
+<br>\n</br>
+
+<br>BEST in sports especially in Hockey.\n</br>
+
+<br>Won golds IN Basketball(M),Hockey,Football,Squash in Inter IIT meet.\n</br>
+
+<br>Stood second in Inter IIT meet.\n</br>
+<br>\n</br>
+
+<br>Fun facts...\n</br>
+<br>\n</br>
+
+<br>Haunted Places..\n</br>
+<br>Place behind Church.(Try after 2 am)\n</br>
+<br>old kasturba Bhawan.(Try after 2 am)\n</br>
+   </string>
+    <string name="rajendra">
+      Rajendra Bhawan exults of being the latest boys bhawan of IIT Roorkee.Deriving its name from the ascetic President of India Dr. Rajendra Prasad. The whole Bhawan is divided into Three wings, the new wing (all rooms single seated), “A” block (all rooms double seated) and “B” Block (all rooms double seated).The “A” Block wing was a previously a part of the Ganga Bhawan, opposite Rajendra Bhawan but after the completion of “B” block in 1989 the “A” Block and “B” Block together came to be known as Rajendra Bhawan. Since then it has been acting as a second home exclusively for all undergraduate students joining this Institute. At present total 218 double seated and 165 single seated rooms are available in the Bhawan and 32 new single seated rooms are under construction. The Bhawan is also having a small library for the use of its inmates. This hostel boast its large and beautiful lawns.
+  <br> \n</br>
+       <br> \n</br>
+    <br> MESS \n</br>
+RJB Mess is regarded as one of the best mess present in the campus in terms of quality of food as well as variety in mess menu which is updated weekly by Mess Secretary and Mess Council . Special sweets or dishes are provided regularly along with coupon facility for butter, eggs and dahi. Mess is provided with a clean healthy environment and large space to avoid any disturbance in the meal. The Bhawan Mess is well equipped with music system for students to be cheerful while eating. For students, who are unable to reach mess due to health problems, Mess facility is provided them to their rooms or hospital.
+  <br> \n</br>
+       <br> \n</br>
+     <br> SPORTS FACILITIES  \n</br>
+There are three cemented badminton courts with floodlights for the students to play during night time. There is a volleyball court in front of bhawan canteen to enjoy team game. Big lawns present in each block are easily converted to cricket and soccer playgrounds. Apart from outdoor games there are facilities of indoor games like table tennis, carrom and chess. Bhawan council of RJB encourages the students in sporting activities by organising various events like Rajendra Premiere League which saw participation of students in large numbers.
+<br> \n</br>
+       <br> \n</br>
+    <br>  GYMNASIUM \n</br>
+Rajendra Bhawan has initiated the GYM facility in hostel the year 2013. GYM is fully equipped with all gadgets essential for basic body workout.
+<br> \n</br>
+       <br> \n</br>
+   <br>INTERNET FACILITIES \n</br>
+      Rajendra Bhawan is fully equipped with internet facility
+      in form of LAN.Students can do unlimited browsing and
+      downloading. They can also play games like Counter Strike,
+      NFS Most Wanted etc.The best part of internet are the
+      intranet facilities which can be accessed from anywhere
+      within the campus and students can download lectures and
+      tutorials, get regular notices, read e books from channel I, the intranet website of IIT Roorkee.Even
+      the subject registrations are done online. Everybody is encouraged
+      to exhibit their creations on channel I through kriti.
+<br> \n</br>
+       <br> \n</br>
+    <br>  GARDEN </br>
+Rajendra Bhawan has excellent gardens to rejuvenate one mind after a long and tiring day. At Excellent Gardens, we believe that a well-designed garden is a necessity for any hostel or home and should offer a tranquil, relaxing atmosphere where one can get away from the hustle and bustle of everyday life.
+<br> \n</br>
+       <br> \n</br>
+      <br>VISITOR ROOM \n</br>
+The bhawan a visitor room where residents can meet with friends and relatives.
+<br> \n</br>
+       <br> \n</br>
+     <br> UTILITIES \n</br>
+<br>The bhawan houses a barber shop which is open through out the day till late in the evening. \n</br>
+<br>The bhawan also has an in house stationary shop to cater to the urgent needs of the students. \n</br>
+  <br> The fruit and juice shop serves refreshing juices and platters of fruits at nominal prices. \n</br>
+   </string>
+    <string name="rajiv">
+        Rajiv Bhawan is the newest jewel among the 19 hostels of IIT Roorkee. It is named on the 6th prime minister of India, Rajiv Gandhi. It was on 27 October, 2008 that the founding stone of the Bhawan was laid by the then director of IITR , Dr. S.C. Saxena. The construction was completed on 12 November 2010.The Bhawan came to be known in its present inhabitable form on 17 July, 2011, when the students first walked in.
+<br> \n</br>
+        <br> \n</br>
+Rajiv Bhawan boasts of 675 rooms distributed between 6 floors, dining mess , canteen and 8 guest rooms. The bhawan also has a state of art cyber cafe with 20 high end desktop computers, a party room and a common room with HD television , 2 table tennis tables , 2 foosball tables ,2 caroms and 6 chess boards. It also has a washing room with 6 front loading fully automatic washing machines. The bhawan provides ease of accessibility with 6 lifts. Bhawan inmates also enjoy high speed internet through wired LAN. Rajiv Bhawan also boasts of an eco friendly design with solar powered water heater and lighting.
+   <br> \n</br>
+        <br> \n</br>
+        The bhawan is ideally situated in the gaao area just adjacent to the E-Rickshaw stand which provide easy transportation to the inmates. The bhawan has a well maintained canteen which opens from 2 pm - 2 am. In late night students can enjoy the Rajiv Bhawan Night cafe which provides tea and other late night snacks.
+  <br> \n</br>
+        <br> \n</br>
+        The hostel is also near the multi activity centre where one can have hot coffee from CCD or enjoy food from the food court or restuarant. MAC also have snooker/pool room, ATMs and a general needs mart. Daily music classes are also held at MAC where the students can learn music and instruments free of cost. With ABN ground close to the Bhawan the students can play cricket any time. The bhawan also have 4 maintained badminton courts and a half basketball court. Girls are allowed in the open areas and the canteen of the bhawan till 12 am. A guard is always on duty for the security, and a first aid kit is kept in reception for emergency situations.
+    </string>
+    <string name="cautley">
+        Cautley Bhawan being one of the oldest structure, has always been reckoning for its construction plan and strong healthy principled environment. This Bhawan with its infrastructure and facilities like Gym, SBI-ATM, T.V. Hall. Lipton, a huge canteen and above the beautiful greenery around, make the Bhawan a prefect place in IIT Roorkee to live in. Recently, a new block of 201 seat in year 2001 was established. Now a new building (72 double seated room) is under construction, making a total strength of Cautley Bhawan around 657 seats.
+    </string>
+    <string name="sarojini">
+        Sarojini Bhawan, the first Girls Hostel in IIT Roorkee, was established in the year 1966-67 by Smt. Lakshi Kanntamma Reddy.As the time passed,it was extended four times. The wing named Krishna was constructed in year 1985-86 and the second extension,which resulted in the Disang wing ,was build in year 1988-89.The Alaknanda wing was constructed in 2000-2001. The Newest wing,Sabarmati was built in 2002-2003. The name of the bhawan is dedicated to the Nightangle of India, Sarojini Naidu, who is an inspiration for all girls that sky is the limit. The WINGS are named after the four pious rivers that flow from the four directions of our sacred country. In addition to this the construction of the wing is such that each one has a separate lawn in front with a beatific garden that is well maintained by the gardeners. Furthermore Bhawan has a well furnished COMPUTER ROOM (Cyber Cafe), WASHING MACHINE ROOM and T.V. ROOM with the premises of the Bhawan. To boast about the bhawan sooner a GYM ROOM is going to get established. Moreover, the WI-FI connection has also been set up in 2007 for the convenience of the girls. Apart from the above said facilities a small CANTEEN and a STATIONARY SHOP are there in the Bhawan itself. Lots of construction has been done to provide the best ventilation in the mess kitchen. A ROTI MAKER MACHINE has been provided in the mess. Emergency light is also provided in the MESS to meet the power cut. The idea of keeping a stereo player in the mess is in progress. In short SAROJINI BHAWAN IS SUPPOSED TO BE THE WELL FURNISHED Bhawan.
+    </string>
+    <string name="coffee">
+        Café Coffee Day (CCD) is an Indian café chain. It is a subsidiary of Coffee Day Enterprises Limited. Coffee Day serves 1.8 billion cups of coffee annually in six countries.
+    </string>
+    <string name="coffee1">
+        LOCATION : First shop, Ground floor, Multi Activity Centre
+        <br> \n</br>
+        OPENING and CLOSING : 9am To 11pm
+        <br> \n</br>
+        PAYMENT OPTIONS : Cash and CARD only (No Paytm)
+
+    </string>
+    <string name="hp">
+        We are here to provide the BEST Laptops and Laptop Services
+        in Fair Price. We have many other items like their Accessories also
+        <br> \n</br>
+        LOCATION : Shop NO.2, First Floor, Multi Activity Centre
+        <br> \n</br>
+        OPENING and CLOSING : 10am To 8pm (closed on Wednesday)
+        <br> \n</br>
+        PATMENT OPTIONS : Paytm, Phone Pay, Cash, Card
+        <br> \n</br>
+        <br> \n</br>
+        <br> \n</br>
+        <br> \n</br>
+
+          <br> \n</br>
+          <br> \n</br>
+        THINGS AVAILABLE : All types of Laptops GAMING to LIGHT WEIGHT
+        <br> \n</br>
+        Selling ASUS, HP and many more.
+        <br> \n</br>
+        Have Vivobook, Rog, HP Spectra and many more
+        <br> \n</br>
+        CONTACT DETAILS : NEERAJ AGARWAL
+        <br> \n</br>
+        NO : 7900514130, 8791795893
+        <br> \n</br>
+        EMAIL : brishaarke@gmail.com
+    </string>
+    <string name="rajendra1">
+        LOCATION : In the Block B of RAJENDRA Bhawan and canteen gate in Lawn
+        <br> \n</br>
+         <br> \n</br>
+        CONTACT NO :
+        <br> \n</br>
+         <br> \n</br>
+            PAYMENT OPTIONS : Cash, Paytm
+        <br> \n</br>      <br> \n</br>
+        OPENING and CLOSING :
+    </string>
+    <string name="cautley1">
+        LOCATION : In front of CAUTLEY Bhawan Cycle Stand and bhawan main GATE
+        <br> \n</br>
+              <br> \n</br>
+        CONTACT NO :
+        <br> \n</br>
+              <br> \n</br>
+        PAYMENT OPTIONS : Cash, Google pay, BHIM UPI and Paytm
+        <br> \n</br>      <br> \n</br>
+        OPENING and CLOSING : 2pm to 2am
+    </string>
+    <string name="gc">
+        LOCATION : Near LHC, In front of MANAGEMENT DEPARTMENT, On main Building Road
+        <br> \n</br>
+        CONTACT NO :
+          <br> \n</br>
+              <br> \n</br>
+             PAYMENT OPTIONS : Cash, Paytm
+        <br> \n</br>      <br> \n</br>
+           OPENING and CLOSING :
+    </string>
+    <string name="salon1">
+        <br>OPENING time : 9 am \n</br>
+<br>CLOSING time : 8 pm \n</br>
+<br>Payment Method : Paytm,cash.\n</br>
+<br>Contact Details: 9888273722\n</br>
+<br> Address : 2 nd Floor, MAC.\n</br>
+    </string>
+    <string name="salon2">
+        <br>OPENING time : 9:30 am \n</br>
+        <br>CLOSING time : 8:30 pm\n</br>
+<br>Payment Method : Paytm,cash.\n</br>
+<br>Contact Details: 9358795659, 7579046043\n</br>
+<br> Address : 2 nd Floor, MAC.\n</br>
+    </string>
+    <string name="res1">
+        <br>OPENING time : 11 am \n</br>
+<br>CLOSING time : 11 pm\n</br>
+<br>Payment Method : UPI,Phonepe,Paytm,cash.\n</br>
+<br>Contact Details: 9837564503\n</br>
+<br> Address : 3 rd Floor, MAC.\n</br>
+    </string>
+    <string name="res2">
+        <br>Food quality is good and fully A.C.\n</br>
+<br>OPENING time : 12 pm \n</br>
+<br>CLOSING time : 12 am\n</br>
+<br>Payment Method : UPI,cash.\n</br>
+<br> Address : 2 nd Floor, MAC.\n</br>
+    </string>
+    <string name="gor">
+
+        <br>MUST TRY : \n</br>
+        <br> \n</br>
+        <br>Red Sause Pasta (50) \n</br>
+         <br>Burger (30) \n</br>
+        <br>Ice Tea (20) \n</br>
+        <br>Cheese Paties (20) \n</br>
+        <br>Chola Kulcha (40) \n</br>
+        <br> \n</br>
+        <br>OTHER THINGS TO TRY : \n</br>
+           <br> \n</br>
+
+
+
+    </string>
+</resources>
